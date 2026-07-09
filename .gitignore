@@ -1,0 +1,9 @@
+venv/
+.idea/
+__pycache__/
+*.log
+node_modules/
+docs/
+dist/
+dist-ssr/
+build/
